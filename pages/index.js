@@ -1,3 +1,19 @@
+/*********************************************************************************
+*  WEB422 – Assignment 5
+*
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+*
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: MD Arafat Koyes   Student ID: 133682229        Date: April 13, 2025
+*
+********************************************************************************/
+
+// index.js - Home page of the Met Museum Artwork Explorer app
+// Displays a welcome message and provides access to the search feature (if enabled)
+
+
 import Layout from "../components/Layout"; // Reusable layout wrapper
 import SearchForm from "../components/SearchForm"; // Form to search the Met Museum API
 
